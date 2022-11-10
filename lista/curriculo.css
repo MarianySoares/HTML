@@ -1,12 +1,18 @@
 body{
-    background-color: blue;
+    background-color: black;
 }
 #nome{
-    color: rebeccapurple;
+    color: red;
 }
 .habilidades{
-    color: blue;
+    color: palevioletred;
 }
 .lista{
-
+    
+}
+.Contato{
+    color: palevioletred;
+}
+.RedesSociais{
+    color: palevioletred;
 }
