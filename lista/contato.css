@@ -1,0 +1,16 @@
+body{
+    background-color:  #2b3541;
+}
+nav{
+    background-color: black;
+    text-align: right;
+    padding: 10px;
+}
+nav ul a{
+    color: deeppink;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav ul a :hover{
+    color: blue;
+}

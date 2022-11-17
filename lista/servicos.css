@@ -1,0 +1,11 @@
+body{
+    background-color: #2b3541;
+}
+nav{
+    background-color: black;
+}
+nav ul a{
+    color: deeppink;
+    text-align: right;
+    text-decoration: none;
+}

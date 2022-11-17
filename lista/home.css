@@ -1,0 +1,41 @@
+body{
+    background-color: #2b3541;
+}
+
+nav{
+    background-color: black;
+    text-align: right;
+    padding: 10px;
+}
+nav ul a{
+    color: deeppink;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav ul a:hover{
+    color: blue;
+
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.título{
+    color: deeppink;
+    font-size: 30px;
+    text-align: center;
+}
+.imagens{
+    color: deeppink;
+    font-size: 30px;
+    text-align: center;
+}
+#logo{
+    width: 100px ;
+    border-radius: 80px;
+    text-align: center;
+    margin-left: 47%;
+}
+.corte{
+    border-radius: 20px;
+}
